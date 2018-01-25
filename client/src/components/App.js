@@ -5,6 +5,7 @@ import Flash from './Flash';
 import Home from './Home';
 import { Switch, Route } from 'react-router-dom';
 import { Segment } from 'semantic-ui-react';
+import beers from './beers'
 
 class App extends Component {
   render() {
